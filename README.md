@@ -10,6 +10,10 @@ The bot intends to supply the users of the bot with automated health check relat
 - list of wrongly configured CI's
 - etc etc.
 
+## DEMO
+[![Watch the video](https://github.com/Spanhaak/sacm-slack-bot/blob/master/ss_demo.PNG)](https://www.youtube.com/watch?v=1-7VI-2i4uE&feature=youtu.be)
+
+
 The bot can basically be extended with whatever you would like or measure upon.
 
 Initial bot to assist the SACM team in SLACK
