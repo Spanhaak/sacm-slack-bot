@@ -3,6 +3,15 @@ A slack bot to use in combination with, for instance BMC Atrium CMDB solutions, 
 
 This bot connects to an API gateway that will do the communication with the CMDB database backend. You need to take care of the ability to connect (network and authentication) to the database from the location this bot and api gateway will be running.
 
+## Purpose
+The bot intends to supply the users of the bot with automated health check related information about the data quality in their CMDB environment. 
+- list of duplicates
+- update ratio of CI's
+- list of wrongly configured CI's
+- etc etc.
+
+The bot can basically be extended with whatever you would like or measure upon.
+
 Initial bot to assist the SACM team in SLACK
 - Created in Node.js
 
