@@ -17,6 +17,7 @@ Initial bot to assist the SACM team in SLACK
 
 ## Pre-requisites
 - You own a SLACK channel
+- Create an APP and connect it to your workspace
 - You have created a 'bot user' in the SLACK channel for the bot
 https://api.slack.com/bot-users
 - You have an OAuth token to validate the bot to the workspace/channel
