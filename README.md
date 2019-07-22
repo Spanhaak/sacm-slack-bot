@@ -20,7 +20,7 @@ Initial bot to assist the SACM team in SLACK
 - Created in Node.js
 
 ## Pre-requisites
-- You own a SLACK channel
+- You own a SLACK workspace
 - Create an APP and connect it to your workspace
 - You have created a 'bot user' in the SLACK channel for the bot
 https://api.slack.com/bot-users
